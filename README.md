@@ -1,2 +1,5 @@
 # DoS-Atack
-DoS-Atack atacar um wi-fi
+DoS-Atack atacar uma rede à qual você está conectado
+
+Codes (Termux)
+
